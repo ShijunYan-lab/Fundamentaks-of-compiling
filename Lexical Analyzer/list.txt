@@ -1,0 +1,13 @@
+Folder PATH listing for volume Windows-SSD
+Volume serial number is 106E-56D2
+C:.
+    dfa_new.c
+    dfa_new.exe
+    list.txt
+    output1.txt
+    test_to_dfa.txt
+    词法分析器.docx
+    说明文档.docx
+    
+No subfolders exist 
+

@@ -1,0 +1,12 @@
+//注释1
+//注释2
+/*注释3*/
+int main(){
+    int a;
+    int b;
+    a $ b;
+    int a = 3;
+    a + b = c;
+    return 0;
+}
+#

@@ -1,0 +1,82 @@
+
+
+Scanner completed successfully!
+ Token List: 
+-----------------------------
+ Number   Class      Seman       Line Number
+	1        	3        	int       	Line: 4         
+	2        	3        	main      	Line: 4         
+	3        	49       	(         	Line: 4         
+	4        	50       	)         	Line: 4         
+	5        	51       	{         	Line: 4         
+	6        	3        	int       	Line: 5         
+	7        	1        	a         	Line: 5         
+	8        	53       	;         	Line: 5         
+	9        	3        	int       	Line: 6         
+	10       	1        	b         	Line: 6         
+	11       	53       	;         	Line: 6         
+	12       	1        	a         	Line: 7         
+	13       	1        	b         	Line: 7         
+	14       	53       	;         	Line: 7         
+	15       	3        	int       	Line: 8         
+	16       	1        	a         	Line: 8         
+	17       	35       	=         	Line: 8         
+	18       	4        	3         	Line: 8         
+	19       	53       	;         	Line: 8         
+	20       	1        	a         	Line: 9         
+	21       	13       	+         	Line: 9         
+	22       	1        	b         	Line: 9         
+	23       	35       	=         	Line: 9         
+	24       	1        	c         	Line: 9         
+	25       	53       	;         	Line: 9         
+	26       	3        	return    	Line: 10        
+	27       	4        	0         	Line: 10        
+	28       	53       	;         	Line: 10        
+	29       	52       	}         	Line: 11        
+	30       	57       	#         	Line: 12        
+
+Constant Table: 
+-----------------------------
+ Constant 1: 3
+ Constant 2: 0
+
+Total Constants: 2
+
+
+Identified Keywords: 
+-----------------------------
+ Keyword 1: int
+ Keyword 2: main
+ Keyword 3: int
+ Keyword 4: int
+ Keyword 5: int
+ Keyword 6: return
+
+Total Keywords: 6
+
+
+Error List: 
+-----------------------------
+ Error 1: Line 7: '$' - Illegal character!
+
+Total Errors: 1
+
+
+Comment List: 
+-----------------------------
+ Comment 1: Lines 1-1: //注释1
+ Comment 2: Lines 2-2: //注释2
+ Comment 3: Lines 3-3: /*注释3*/
+
+Identified Identifiers: 
+-----------------------------
+ Identifier 1: a
+ Identifier 2: b
+ Identifier 3: a
+ Identifier 4: b
+ Identifier 5: a
+ Identifier 6: a
+ Identifier 7: b
+ Identifier 8: c
+
+Total Identifiers: 8
